@@ -1,2 +1,9 @@
 Date,Amount,Category,Description
 20-02-2026,100,Income,Salary for June
+12-03-2026,150.0,Expense,travel
+20-02-2026,100.00,Income,Salary for February
+05-03-2026,50.25,Expense,Grocery shopping
+12-03-2026,150.00,Expense,Train tickets
+01-04-2026,200.00,Income,Freelance project
+15-04-2026,75.50,Expense,Utilities bill
+30-04-2026,300.00,Income,Bonus payment
